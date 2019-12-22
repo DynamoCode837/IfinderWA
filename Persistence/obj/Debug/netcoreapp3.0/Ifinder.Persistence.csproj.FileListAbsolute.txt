@@ -1,0 +1,13 @@
+C:\Users\leroy\source\repos\Persistence\bin\Debug\netcoreapp3.0\Ifinder.Entity.dll
+C:\Users\leroy\source\repos\Persistence\obj\Debug\netcoreapp3.0\Ifinder.Persistence.csprojAssemblyReference.cache
+C:\Users\leroy\source\repos\Persistence\obj\Debug\netcoreapp3.0\Ifinder.Persistence.AssemblyInfoInputs.cache
+C:\Users\leroy\source\repos\Persistence\obj\Debug\netcoreapp3.0\Ifinder.Persistence.AssemblyInfo.cs
+C:\Users\leroy\source\repos\Persistence\bin\Debug\netcoreapp3.0\Ifinder.Persistence.deps.json
+C:\Users\leroy\source\repos\Persistence\bin\Debug\netcoreapp3.0\Ifinder.Persistence.runtimeconfig.json
+C:\Users\leroy\source\repos\Persistence\bin\Debug\netcoreapp3.0\Ifinder.Persistence.runtimeconfig.dev.json
+C:\Users\leroy\source\repos\Persistence\bin\Debug\netcoreapp3.0\Ifinder.Persistence.dll
+C:\Users\leroy\source\repos\Persistence\bin\Debug\netcoreapp3.0\Ifinder.Persistence.pdb
+C:\Users\leroy\source\repos\Persistence\bin\Debug\netcoreapp3.0\Ifinder.Entity.pdb
+C:\Users\leroy\source\repos\Persistence\obj\Debug\netcoreapp3.0\Ifinder.Persistence.csproj.CopyComplete
+C:\Users\leroy\source\repos\Persistence\obj\Debug\netcoreapp3.0\Ifinder.Persistence.dll
+C:\Users\leroy\source\repos\Persistence\obj\Debug\netcoreapp3.0\Ifinder.Persistence.pdb

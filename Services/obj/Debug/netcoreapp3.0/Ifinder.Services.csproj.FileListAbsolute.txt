@@ -1,0 +1,13 @@
+C:\Users\leroy\source\repos\Services\bin\Debug\netcoreapp3.0\Ifinder.Services.deps.json
+C:\Users\leroy\source\repos\Services\bin\Debug\netcoreapp3.0\Ifinder.Services.dll
+C:\Users\leroy\source\repos\Services\bin\Debug\netcoreapp3.0\Ifinder.Services.pdb
+C:\Users\leroy\source\repos\Services\bin\Debug\netcoreapp3.0\Ifinder.Entity.dll
+C:\Users\leroy\source\repos\Services\bin\Debug\netcoreapp3.0\Ifinder.Persistence.dll
+C:\Users\leroy\source\repos\Services\bin\Debug\netcoreapp3.0\Ifinder.Entity.pdb
+C:\Users\leroy\source\repos\Services\bin\Debug\netcoreapp3.0\Ifinder.Persistence.pdb
+C:\Users\leroy\source\repos\Services\obj\Debug\netcoreapp3.0\Ifinder.Services.csprojAssemblyReference.cache
+C:\Users\leroy\source\repos\Services\obj\Debug\netcoreapp3.0\Ifinder.Services.AssemblyInfoInputs.cache
+C:\Users\leroy\source\repos\Services\obj\Debug\netcoreapp3.0\Ifinder.Services.AssemblyInfo.cs
+C:\Users\leroy\source\repos\Services\obj\Debug\netcoreapp3.0\Ifinder.Services.csproj.CopyComplete
+C:\Users\leroy\source\repos\Services\obj\Debug\netcoreapp3.0\Ifinder.Services.dll
+C:\Users\leroy\source\repos\Services\obj\Debug\netcoreapp3.0\Ifinder.Services.pdb

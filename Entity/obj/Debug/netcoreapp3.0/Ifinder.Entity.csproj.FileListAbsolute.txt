@@ -1,0 +1,7 @@
+C:\Users\leroy\source\repos\Entity\bin\Debug\netcoreapp3.0\Ifinder.Entity.deps.json
+C:\Users\leroy\source\repos\Entity\bin\Debug\netcoreapp3.0\Ifinder.Entity.dll
+C:\Users\leroy\source\repos\Entity\bin\Debug\netcoreapp3.0\Ifinder.Entity.pdb
+C:\Users\leroy\source\repos\Entity\obj\Debug\netcoreapp3.0\Ifinder.Entity.AssemblyInfoInputs.cache
+C:\Users\leroy\source\repos\Entity\obj\Debug\netcoreapp3.0\Ifinder.Entity.AssemblyInfo.cs
+C:\Users\leroy\source\repos\Entity\obj\Debug\netcoreapp3.0\Ifinder.Entity.dll
+C:\Users\leroy\source\repos\Entity\obj\Debug\netcoreapp3.0\Ifinder.Entity.pdb

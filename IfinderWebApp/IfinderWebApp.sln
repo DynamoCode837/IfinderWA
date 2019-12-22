@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfinderWebApp", "IfinderWebApp.csproj", "{5EF9698A-3379-451A-8B41-D5453DBAEA6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ifinder.Persistence", "..\Persistence\Ifinder.Persistence.csproj", "{1C7862FF-64D2-4F23-A750-84E4D5EFEC68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ifinder.Services", "..\Services\Ifinder.Services.csproj", "{62EFA0E7-3585-4EAC-8E7A-253D936E1724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ifinder.Entity", "..\Entity\Ifinder.Entity.csproj", "{6677D643-9796-4352-BB33-9EF9FE185130}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EF9698A-3379-451A-8B41-D5453DBAEA6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF9698A-3379-451A-8B41-D5453DBAEA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF9698A-3379-451A-8B41-D5453DBAEA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF9698A-3379-451A-8B41-D5453DBAEA6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7862FF-64D2-4F23-A750-84E4D5EFEC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7862FF-64D2-4F23-A750-84E4D5EFEC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7862FF-64D2-4F23-A750-84E4D5EFEC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7862FF-64D2-4F23-A750-84E4D5EFEC68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62EFA0E7-3585-4EAC-8E7A-253D936E1724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62EFA0E7-3585-4EAC-8E7A-253D936E1724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62EFA0E7-3585-4EAC-8E7A-253D936E1724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62EFA0E7-3585-4EAC-8E7A-253D936E1724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6677D643-9796-4352-BB33-9EF9FE185130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6677D643-9796-4352-BB33-9EF9FE185130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6677D643-9796-4352-BB33-9EF9FE185130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6677D643-9796-4352-BB33-9EF9FE185130}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9DA70E2-D3DF-4597-AFFE-903EAE3294A8}
+	EndGlobalSection
+EndGlobal

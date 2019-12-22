@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Ifinder.Entity/1.0.0": {
+        "runtime": {
+          "Ifinder.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ifinder.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
