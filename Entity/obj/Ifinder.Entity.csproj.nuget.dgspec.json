@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leroy\\source\\repos\\Entity\\Ifinder.Entity.csproj": {}
+    "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Entity\\Ifinder.Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leroy\\source\\repos\\Entity\\Ifinder.Entity.csproj": {
+    "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Entity\\Ifinder.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leroy\\source\\repos\\Entity\\Ifinder.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Entity\\Ifinder.Entity.csproj",
         "projectName": "Ifinder.Entity",
-        "projectPath": "C:\\Users\\leroy\\source\\repos\\Entity\\Ifinder.Entity.csproj",
+        "projectPath": "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Entity\\Ifinder.Entity.csproj",
         "packagesPath": "C:\\Users\\leroy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leroy\\source\\repos\\Entity\\obj\\",
+        "outputPath": "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leroy\\source\\repos\\IfinderWebApp\\IfinderWebApp.csproj": {}
+    "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\IfinderWebApp\\IfinderWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leroy\\source\\repos\\Entity\\Ifinder.Entity.csproj": {
+    "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Entity\\Ifinder.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leroy\\source\\repos\\Entity\\Ifinder.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Entity\\Ifinder.Entity.csproj",
         "projectName": "Ifinder.Entity",
-        "projectPath": "C:\\Users\\leroy\\source\\repos\\Entity\\Ifinder.Entity.csproj",
+        "projectPath": "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Entity\\Ifinder.Entity.csproj",
         "packagesPath": "C:\\Users\\leroy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leroy\\source\\repos\\Entity\\obj\\",
+        "outputPath": "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\leroy\\source\\repos\\IfinderWebApp\\IfinderWebApp.csproj": {
+    "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\IfinderWebApp\\IfinderWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leroy\\source\\repos\\IfinderWebApp\\IfinderWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\IfinderWebApp\\IfinderWebApp.csproj",
         "projectName": "IfinderWebApp",
-        "projectPath": "C:\\Users\\leroy\\source\\repos\\IfinderWebApp\\IfinderWebApp.csproj",
+        "projectPath": "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\IfinderWebApp\\IfinderWebApp.csproj",
         "packagesPath": "C:\\Users\\leroy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leroy\\source\\repos\\IfinderWebApp\\obj\\",
+        "outputPath": "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\IfinderWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -89,11 +89,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\leroy\\source\\repos\\Entity\\Ifinder.Entity.csproj": {
-                "projectPath": "C:\\Users\\leroy\\source\\repos\\Entity\\Ifinder.Entity.csproj"
+              "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Entity\\Ifinder.Entity.csproj": {
+                "projectPath": "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Entity\\Ifinder.Entity.csproj"
               },
-              "C:\\Users\\leroy\\source\\repos\\Services\\Ifinder.Services.csproj": {
-                "projectPath": "C:\\Users\\leroy\\source\\repos\\Services\\Ifinder.Services.csproj"
+              "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Services\\Ifinder.Services.csproj": {
+                "projectPath": "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Services\\Ifinder.Services.csproj"
               }
             }
           }
@@ -126,6 +126,14 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.0.0, )"
             }
           },
           "imports": [
@@ -150,14 +158,14 @@
         }
       }
     },
-    "C:\\Users\\leroy\\source\\repos\\Persistence\\Ifinder.Persistence.csproj": {
+    "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Persistence\\Ifinder.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leroy\\source\\repos\\Persistence\\Ifinder.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Persistence\\Ifinder.Persistence.csproj",
         "projectName": "Ifinder.Persistence",
-        "projectPath": "C:\\Users\\leroy\\source\\repos\\Persistence\\Ifinder.Persistence.csproj",
+        "projectPath": "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Persistence\\Ifinder.Persistence.csproj",
         "packagesPath": "C:\\Users\\leroy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leroy\\source\\repos\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -178,8 +186,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\leroy\\source\\repos\\Entity\\Ifinder.Entity.csproj": {
-                "projectPath": "C:\\Users\\leroy\\source\\repos\\Entity\\Ifinder.Entity.csproj"
+              "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Entity\\Ifinder.Entity.csproj": {
+                "projectPath": "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Entity\\Ifinder.Entity.csproj"
               }
             }
           }
@@ -227,14 +235,14 @@
         }
       }
     },
-    "C:\\Users\\leroy\\source\\repos\\Services\\Ifinder.Services.csproj": {
+    "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Services\\Ifinder.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leroy\\source\\repos\\Services\\Ifinder.Services.csproj",
+        "projectUniqueName": "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Services\\Ifinder.Services.csproj",
         "projectName": "Ifinder.Services",
-        "projectPath": "C:\\Users\\leroy\\source\\repos\\Services\\Ifinder.Services.csproj",
+        "projectPath": "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Services\\Ifinder.Services.csproj",
         "packagesPath": "C:\\Users\\leroy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leroy\\source\\repos\\Services\\obj\\",
+        "outputPath": "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -255,11 +263,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\leroy\\source\\repos\\Entity\\Ifinder.Entity.csproj": {
-                "projectPath": "C:\\Users\\leroy\\source\\repos\\Entity\\Ifinder.Entity.csproj"
+              "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Entity\\Ifinder.Entity.csproj": {
+                "projectPath": "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Entity\\Ifinder.Entity.csproj"
               },
-              "C:\\Users\\leroy\\source\\repos\\Persistence\\Ifinder.Persistence.csproj": {
-                "projectPath": "C:\\Users\\leroy\\source\\repos\\Persistence\\Ifinder.Persistence.csproj"
+              "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Persistence\\Ifinder.Persistence.csproj": {
+                "projectPath": "C:\\Users\\leroy\\Source\\Repos\\IfinderWA\\Persistence\\Ifinder.Persistence.csproj"
               }
             }
           }
